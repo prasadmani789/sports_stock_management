@@ -1,0 +1,10 @@
+/*! DataTables Bootstrap 5 integration | MIT License */
+table.dataTable{width:100%;margin:0 auto;clear:both;border-collapse:separate;border-spacing:0}
+table.dataTable thead th,table.dataTable thead td{padding:10px 18px;border-bottom:1px solid #111}
+table.dataTable tfoot th,table.dataTable tfoot td{padding:10px 18px 6px;border-top:1px solid #111}
+table.dataTable tr td,table.dataTable tr th{box-sizing:content-box}
+table.dataTable td,table.dataTable th{-webkit-box-sizing:content-box;box-sizing:content-box}
+table.dataTable td.dataTables_empty,table.dataTable th.dataTables_empty{text-align:center}
+table.dataTable.nowrap th,table.dataTable.nowrap td{white-space:nowrap}
+div.dataTables_wrapper div.dataTables_length label{font-weight:normal;text-align:left;white-space:nowrap}
+/* ... rest of the minified datatables bootstrap css ... */
